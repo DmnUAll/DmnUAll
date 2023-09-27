@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DmnUAll
 - 👀 I’m interested in iOS and macOS programming.
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently programming, using Swift.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me:
   Telegram: @StpdSxyFlndrs
