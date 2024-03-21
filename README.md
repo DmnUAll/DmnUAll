@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DmnUAll
-- 👀 I’m interested in C++ programming.
-- 🌱 I’m currently programming, using C++.
+- 👀 I’m interested in Python programming.
+- 🌱 I’m currently programming, using Python.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me:
   Telegram: @StpdSxyFlndrs
